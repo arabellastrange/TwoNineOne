@@ -1,0 +1,9 @@
+drop table registrar;
+drop table houseman;
+drop table patient;
+drop table junior;
+drop table doctor;
+drop table consultant;
+drop table teams;
+drop table nurse;
+drop table ward;
