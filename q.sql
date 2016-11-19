@@ -1,4 +1,3 @@
-/*carry out a join between two tables and use a function and a group by clause.*/
 /*Question 1: Return the number of doctors working in the surgery team */
 select Specialism, Count(*) Number_of_JMemebrs
 from consultant, teams, junior, doctor

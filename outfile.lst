@@ -1,0 +1,193 @@
+SQL> start drop
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+SQL> start hp
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+SQL> start values
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+SQL> start q
+insert into registrar values(001491)
+*
+ERROR at line 1:
+ORA-00001: unique constraint (WYB15135.PK_DOCTOR_R) violated 
+
+
+
+SPECIALISM           NUMBER_OF_JMEMEBRS                                         
+-------------------- ------------------                                         
+Surgen                                2                                         
+
+
+SPECIALISM           NUMBER_OF_JMEMEBRS                                         
+-------------------- ------------------                                         
+Surgen                                2                                         
+
+
+NAME                 CONSULTANT                                                 
+-------------------- ----------                                                 
+Kate Bishop              101312                                                 
+Jubilation Lee           101312                                                 
+
+
+NAME                 CONSULTANT                                                 
+-------------------- ----------                                                 
+Kate Bishop              101312                                                 
+Jubilation Lee           101312                                                 
+
+
+NAME                 DATE_QUAL NAME                                             
+-------------------- --------- --------------------                             
+Janet Van Dyne       10-AUG-00 A and E                                          
+
+
+NAME                 DATE_QUAL NAME                                             
+-------------------- --------- --------------------                             
+Janet Van Dyne       10-AUG-00 A and E                                          
+
+
+NAME                 NAME                                                       
+-------------------- --------------------                                       
+Jean Grey            Jane Foster                                                
+Lean of Hel          Emma Frost                                                 
+
+SQL> spool off
